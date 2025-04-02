@@ -3,7 +3,7 @@
 	url = https://github.com/doctest/doctest
 [submodule "lib/stduuid"]
 	path = lib/stduuid
-	url = https://github.com/mariusbancila/stduuid
+	url = https://github.com/CoolLibs/stduuid
 [submodule "tooling"]
 	path = tooling
 	url = https://github.com/CoolLibs/tooling
