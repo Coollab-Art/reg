@@ -38,7 +38,7 @@ target_link_libraries(${PROJECT_NAME} PRIVATE doctest::doctest)
 # ---Add ser20---
 FetchContent_Declare(
     ser20
-    GIT_REPOSITORY https://github.com/CoolLibs/ser20
+    GIT_REPOSITORY https://github.com/Coollab-Art/ser20
     GIT_TAG 0561388223ee618545b9febf7604c61f39f8aa28
 )
 FetchContent_MakeAvailable(ser20)
